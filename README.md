@@ -2,8 +2,6 @@
 Developed a full-stack web application based project on social media application. Its' completely responsive and uses MongoDB Express React and NodeJs (MERN) as the core tech-stack.
 
 # Featurs included in this project
-## user features:
-
 • register and login users.
 
 • post images can be uploaded using file system.
