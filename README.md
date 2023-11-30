@@ -4,12 +4,19 @@ Developed a full-stack web application based project on social media application
 # Featurs included in this project
 ## project features:
 • user authentication: implement a secure login/logout system.
+
 • mongoDB integration: use MongoDB for data storage. Demonstrate how to perform CRUD (Create, Read, Update, Delete) operations.
+
 • api development: create RESTful APIs for the following functionalities:
-• user profile management: allow users to create, view, and edit their profiles.
-• post creation and retrieval: enable users to create posts and retrieve them.
-• commenting system: users should be able to comment on posts.
+
+* user profile management: allow users to create, view, and edit their profiles.
+
+* post creation and retrieval: enable users to create posts and retrieve them.
+
+* commenting system: users should be able to comment on posts.
+
 • error handling: implement comprehensive error handling and logging.
+
 • documentation: provide clear documentation on the setup and usage of your backend.
 
 ## user features:
