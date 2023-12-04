@@ -62,7 +62,7 @@ Developed a full-stack web application based project on social media application
 
 ## Clone the repository
 ```
-https://github.com/Brothin/Sociopedia.git
+git clone https://github.com/Brothin/Sociopedia.git
 ```
 ```
 cd Sociopedia
